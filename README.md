@@ -58,3 +58,5 @@ The following figure shows the effect of using CSINet for channel feedback with 
 [1] Wen, Chao-Kai, Wan-Ting Shih, and Shi Jin, "Deep learning for massive MIMO CSI feedback," IEEE Wireless Communications Letters, vol. 7, no. 5, pp. 748-751, Oct. 2018.
 
 Copyright 2023, The MathWorks, Inc.
+
+[![View CSINet-Channel-Compression-in-MATLAB-Using-Keras on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/124575-csinet-channel-compression-in-matlab-using-keras)
