@@ -59,5 +59,3 @@ The following figure shows the effect of using CSINet for channel feedback with 
 Copyright 2023, The MathWorks, Inc.
 
 [![View CSINet-Channel-Compression-in-MATLAB-Using-Keras on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/124575-csinet-channel-compression-in-matlab-using-keras)
-
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras&file=SimChanCompEffOnPrecodingUsingMATLABAndKerasWithCSINetExample.mlx)
