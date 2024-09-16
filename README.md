@@ -20,7 +20,7 @@ There are different options for accessing deep learning models within MATLAB, in
 
 This example provides an overview of the third approach. Co-execution is useful for leveraging [wireless products in MATLAB](https://www.mathworks.com/solutions/wireless-communications.html) to test existing deep learning models from other frameworks in an end-to-end link simulation. 
 This workflow also allows engineering teams working with MATLAB & Python deep learning frameworks to easily combine their work in one environment.
-Approaches one & two are useful for building deep learning models from scratch or for using additional capabilities from the [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html) with pre-trained models, such as [Deep Learning Code Generation](https://www.mathworks.com/help/deeplearning/deep-learning-code-generation.html) or [deep learning models in Simulink&reg;](https://www.mathworks.com/help/deeplearning/ug/classify-images-in-simulink-with-imported-tensorflow-network.html). 
+Approaches one & two are useful for building deep learning models from scratch or for using additional capabilities from the [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html) with pre-trained models, such as [Deep Learning Code Generation](https://www.mathworks.com/help/deeplearning/code-generation.html) or [deep learning models in Simulink&reg;](https://www.mathworks.com/help/deeplearning/ug/classify-images-in-simulink-with-imported-tensorflow-network.html). 
 
 ### Requirements
 To run this example, you need:
