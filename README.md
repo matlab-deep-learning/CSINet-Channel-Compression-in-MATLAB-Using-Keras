@@ -15,7 +15,7 @@ The following figure summarizes the operations executed in MATLAB (marked in blu
 There are different options for accessing deep learning models within MATLAB, including:
 
 1. Using models created in MATLAB using [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html)
-2. [Converting](https://www.mathworks.com/help/deeplearning/deep-learning-import-and-export.html) models from other frameworks into MATLAB
+2. [Converting](https://www.mathworks.com/help/deeplearning/import-deep-neural-networks.html) models from other frameworks into MATLAB
 3. Co-executing models from other frameworks with MATLAB
 
 This example provides an overview of the third approach. Co-execution is useful for leveraging [wireless products in MATLAB](https://www.mathworks.com/solutions/wireless-communications.html) to test existing deep learning models from other frameworks in an end-to-end link simulation. 
